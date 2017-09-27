@@ -17,4 +17,4 @@ sed -ri "s/(otter.manager.address).*/\1 = $MANAGER_ADDRESS/" /opt/otter_node/con
 
 /opt/otter_node/bin/stop.sh
 /opt/otter_node/bin/startup.sh
-tail -f /opt/otter_node/logs/manager.log & wait
+tail -f /opt/otter_node/logs/node/node.log & wait
