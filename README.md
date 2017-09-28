@@ -1,7 +1,7 @@
 ## docker_otter_node
 docker for otter_node
 
-> see also: [docker for otter_master](https://github.com/mr5/docker_otter_master)
+> see also: [docker for otter_manager](https://github.com/mr5/docker_otter_manager)
 
 ## 环境变量
 
