@@ -1,6 +1,8 @@
 ## docker_otter_node
 docker for otter_node
 
+> see also: [docker for otter_master](https://github.com/mr5/docker_otter_master)
+
 ## 环境变量
 
 * NID: node 编号
